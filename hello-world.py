@@ -1,5 +1,5 @@
 def hello():
     print "hello"
-    print "switched to develop inpc"
+    print "switched to develop in pc"
 
 hello()
